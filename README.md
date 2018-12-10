@@ -1,2 +1,2 @@
 # TINC
-Network Team Project 
+Network Team Project (Use Socket Programming)
